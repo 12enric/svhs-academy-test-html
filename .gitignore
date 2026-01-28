@@ -1,0 +1,11 @@
+# Development folder (Next.js source)
+svhs-academy/
+
+# Design files
+*.pen
+
+# OS files
+.DS_Store
+
+# Debug files
+*.txt
